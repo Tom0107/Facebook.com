@@ -1,0 +1,25 @@
+html,body{
+	height:100%;
+}
+body{
+	background-image:url(../Image/index-background.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+	background-position:center;
+	background-color:transparent;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+form{
+	width:500px;
+	background-color:white;
+	padding:10px;
+}
+img{
+	width:100px;
+	height:100px;
+	display:block;
+	margin:0px auto;
+}
