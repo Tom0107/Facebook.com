@@ -2,7 +2,7 @@ html,body{
 	height:100%;
 }
 body{
-	background-image:url(../Image/index-background.jpg);
+	background-image:url(../Image/fix.jpg);
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-attachment:fixed;
